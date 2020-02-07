@@ -13,3 +13,8 @@ deactivate
 
 ## Run Api
 python main.py App running on http://0.0.0.0:80/ et Utiliser Insomnia
+
+
+# Création environnement
+source ./venv/bin/activate
+deactivate
