@@ -6,7 +6,7 @@ pip install -r requirements.txt
 pip3 install -r requirements.txt
 ```
 
-# Activer environnement
+## Activer environnement
 source ./venv/bin/activate
 Desactivate Venv
 deactivate
@@ -15,6 +15,12 @@ deactivate
 python main.py App running on http://0.0.0.0:80/ et Utiliser Insomnia
 
 
-# Création environnement
+## Activer Venv environnement
 source ./venv/bin/activate
+
+## Déactiver Venv environnement
 deactivate
+
+
+## Install dependecies
+pip3 install -r requirements.txt
