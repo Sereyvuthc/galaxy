@@ -24,3 +24,9 @@ deactivate
 
 ## Install dependecies
 pip3 install -r requirements.txt
+
+
+# Contributors
+Sereyvuth CHUm
+Océane Charlery
+Emilie Daongam
